@@ -1,7 +1,7 @@
 language: generic
 
 before_install:
-- mkdir -p ../goluwa && wget 'http://put.nu/files/cdPuvVs.txt' -O ../goluwa/goluwa
+- mkdir -p ../goluwa && wget 'http://put.nu/files/VHw8LjC.dat' -O ../goluwa/goluwa
 
 script:
 - |
